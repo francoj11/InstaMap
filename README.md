@@ -10,9 +10,9 @@ Screenshots:
 ![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/2.png "Screenshot 2")
 ![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/3.png "Screenshot 3")
 
-![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/1.png "Screenshot 4")
-![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/2.png "Screenshot 5")
-![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/3.png "Screenshot 6")
+![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/4.png "Screenshot 4")
+![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/5.png "Screenshot 5")
+![alt text](https://github.com/francoj11/InstaMap/blob/master/Screenshots/6.png "Screenshot 6")
 
 
 You can see a video of the app running in here:
